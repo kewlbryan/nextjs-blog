@@ -1,6 +1,6 @@
-version 0.1
+version 0.1:
 
-phases
+phases:
   pre_build:
     commands:
       - echo Installing source NPM dependencies...
