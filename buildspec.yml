@@ -12,6 +12,6 @@ phases:
     commands:
       - echo Build started on `date`
       - npm run build
-  artifacts:
-    files:
-      - nextjs-build/buildOutput
+artifacts:
+  files:
+    - nextjs-build/buildOutput
